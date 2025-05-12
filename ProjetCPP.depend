@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1745887083 source:d:\desktop\projetcc\projet\projetcpp\src\formateur.cpp
+	"Formateur.h"
+	<iostream>
+	<string>
+
+1745884807 d:\desktop\projetcc\projet\projetcpp\include\formateur.h
+	<iostream>
+	<string>
+	"Langue.h"
+	<vector>
+
+1745879530 source:d:\desktop\projetcc\projet\projetcpp\src\formateuronline.cpp
+	"FormateurOnline.h"
+	<iostream>
+
+1745879530 d:\desktop\projetcc\projet\projetcpp\include\formateuronline.h
+	"Formateur.h"
+
+1745911568 source:d:\desktop\projetcc\projet\projetcpp\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Formateur.h"
+	"FormateurSpec.h"
+	"FormateurOnline.h"
+	"CentreFormation.h"
+	"Langue.h"
+	"Specialite.h"
+
+1745879530 d:\desktop\projetcc\projet\projetcpp\include\formateurspec.h
+	"Formateur.h"
+	"Specialite.h"
+	<vector>
+
+1745879530 d:\desktop\projetcc\projet\projetcpp\include\specialite.h
+	<iostream>
+	<string>
+
+1745879530 source:d:\desktop\projetcc\projet\projetcpp\src\formateurspec.cpp
+	"FormateurSpec.h"
+	<iostream>
+	<algorithm>
+
+1745879530 source:d:\desktop\projetcc\projet\projetcpp\src\specialite.cpp
+	"Specialite.h"
+
+1744156902 source:d:\desktop\projetcc\projet\projetcpp\src\centre.cpp
+	"Centre.h"
+	<typeinfo>
+
+1744207587 d:\desktop\projetcc\projet\projetcpp\include\centre.h
+	<iostream>
+	"Formateur.h"
+	"FormateurSpec.h"
+	"FormateurOnline.h"
+	<vector>
+
+1745879530 d:\desktop\projetcc\projet\projetcpp\include\langue.h
+	<iostream>
+	<string>
+
+1745879530 source:d:\desktop\projetcc\projet\projetcpp\src\langue.cpp
+	"Langue.h"
+
+1745889553 source:d:\desktop\projetcc\projet\projetcpp\src\centreformation.cpp
+	"CentreFormation.h"
+	<typeinfo>
+
+1745879530 d:\desktop\projetcc\projet\projetcpp\include\centreformation.h
+	<iostream>
+	"Formateur.h"
+	"FormateurSpec.h"
+	"FormateurOnline.h"
+	<vector>
+
